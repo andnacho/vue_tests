@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f84311b2-b55d-42ab-859b-8edca22a897d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UXcU7exasOuQTSrpDRPgZiGeVp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dynamic-forms" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\vueprojects\Exercises\src\filterMixins" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\vueprojects\Exercises\src" />
+      <recent name="C:\laragon\www\Start\src" />
+      <recent name="C:\laragon\www\Start\src\Server" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm install axios" />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f84311b2-b55d-42ab-859b-8edca22a897d" name="Default Changelist" comment="" />
+      <created>1575506392271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575506392271</updated>
+      <workItem from="1575506395764" duration="2952000" />
+      <workItem from="1575509577093" duration="541000" />
+      <workItem from="1575510308011" duration="41000" />
+      <workItem from="1575697709571" duration="1097000" />
+      <workItem from="1575738793308" duration="2013000" />
+      <workItem from="1575770736546" duration="1445000" />
+      <workItem from="1575774871635" duration="4261000" />
+      <workItem from="1575823205454" duration="210000" />
+      <workItem from="1575827058161" duration="27000" />
+      <workItem from="1575827154419" duration="301000" />
+      <workItem from="1575827468015" duration="2919000" />
+      <workItem from="1576465251967" duration="550000" />
+      <workItem from="1576549616758" duration="1471000" />
+      <workItem from="1576632569365" duration="640000" />
+      <workItem from="1576802529325" duration="784000" />
+      <workItem from="1577069186156" duration="695000" />
+      <workItem from="1577158672683" duration="3497000" />
+      <workItem from="1577324901343" duration="1658000" />
+      <workItem from="1577925340027" duration="855000" />
+      <workItem from="1578341344330" duration="1217000" />
+      <workItem from="1580304392791" duration="6078000" />
+      <workItem from="1580920360403" duration="1649000" />
+      <workItem from="1583023762607" duration="1400000" />
+      <workItem from="1583026196903" duration="636000" />
+      <workItem from="1583026854027" duration="8000" />
+      <workItem from="1583173215904" duration="1000000" />
+      <workItem from="1583712343923" duration="928000" />
+      <workItem from="1583723883350" duration="529000" />
+      <workItem from="1583803617071" duration="2371000" />
+      <workItem from="1583812576738" duration="735000" />
+      <workItem from="1587259879409" duration="371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2579" y="262" key="FileChooserDialogImpl" timestamp="1587260249730">
+      <screen x="1920" y="0" width="1707" height="960" />
+    </state>
+    <state x="-1426" y="109" key="FileChooserDialogImpl/0.0.1280.720/-1920.-88.1280.720@-1920.-88.1280.720" timestamp="1583026859399" />
+    <state x="2579" y="262" key="FileChooserDialogImpl/1920.0.1707.960/0.0.1280.720@1920.0.1707.960" timestamp="1587260249730" />
+    <state x="494" y="197" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1583724415330" />
+    <state x="2661" y="295" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1280.720@1920.0.1920.1080" timestamp="1583804821615" />
+    <state x="2382" y="182" key="SettingsEditor" timestamp="1583816323370">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2382" y="182" key="SettingsEditor/1920.0.1920.1080/0.0.1280.720@1920.0.1920.1080" timestamp="1583816323370" />
+    <state x="2148" y="331" width="453" height="154" key="com.intellij.ide.util.TipDialog" timestamp="1587259946012">
+      <screen x="1920" y="0" width="1707" height="960" />
+    </state>
+    <state x="-1483" y="155" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.-88.1280.720@-1920.-88.1280.720" timestamp="1583026854341" />
+    <state x="437" y="243" key="com.intellij.ide.util.TipDialog/0.0.1280.720/-1920.-88.1280.720@0.0.1280.720" timestamp="1583023879754" />
+    <state x="2148" y="331" width="453" height="154" key="com.intellij.ide.util.TipDialog/1920.0.1707.960/0.0.1280.720@1920.0.1707.960" timestamp="1587259946012" />
+    <state x="2177" y="372" width="457" height="173" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1280.720@1920.0.1920.1080" timestamp="1583803630583" />
+    <state x="-1827" y="5" width="1095" height="535" key="dock-window-1" timestamp="1583025880002">
+      <screen x="-1920" y="-88" width="1280" height="720" />
+    </state>
+    <state x="-1827" y="5" width="1095" height="535" key="dock-window-1/0.0.1280.720/-1920.-88.1280.720@-1920.-88.1280.720" timestamp="1583025880002" />
+    <state x="2573" y="145" width="613" height="789" key="find.popup" timestamp="1583712404141">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2573" y="145" width="613" height="789" key="find.popup/1920.0.1920.1080/0.0.1280.720@1920.0.1920.1080" timestamp="1583712404141" />
+    <state x="2073" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1583173557632">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2073" y="242" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1280.720@1920.0.1920.1080" timestamp="1583173557632" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/filterMixins/FilterMixins.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
